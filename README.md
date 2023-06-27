@@ -7,7 +7,7 @@ Here are the results of the parking system program
 
 ![Image-parkir1](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/80e790be-ac2b-40a0-819f-2bd4243af8d1)
 
-# CHOOSING A VEHICLE TYPE
+# 1.)Choosing a vehicle type
 
 ![image2](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/77a49dfa-9727-4bfc-aca1-32aa73674893)
 
