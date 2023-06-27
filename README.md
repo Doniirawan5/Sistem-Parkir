@@ -1,6 +1,6 @@
 # SISTEM-PARKIR
 
-Ini merupakan contoh penerapan sederhana bahasa c++ yaitu berupa system parkir
+Ini merupakan penerapan sederhana sistem parkir menggunakan bahasa pemrograman c++
 
 ![Image-parkir1](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/80e790be-ac2b-40a0-819f-2bd4243af8d1)
 
