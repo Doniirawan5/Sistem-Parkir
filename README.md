@@ -2,7 +2,9 @@
 
 
 Ini merupakan program sederhana menggunakan c++ yaitu program sistem tarif parkir kendaraan sederhana .
+
 Algoritma untuk program sistem tarif parkir nya yaitu
+
 Mulai
 
 ![Image-parkir1](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/80e790be-ac2b-40a0-819f-2bd4243af8d1)
