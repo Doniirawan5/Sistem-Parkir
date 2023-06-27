@@ -1,4 +1,4 @@
-# Sistem-Parkir
+# SISTEM-PARKIR
 
 Ini merupakan contoh penerapan sederhana bahasa c++ yaitu berupa system parkir
 
