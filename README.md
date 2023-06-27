@@ -1,14 +1,9 @@
-# SISTEM-PARKIR
+# PARKING SYSTEM
 
 This is a simple program using c++, namely a simple vehicle parking tariff system program.
 This program explains the parking tariff system that is usually done, for example in every mall or hospital, so every vehicle that enters will receive a ticket to mark the vehicle entering the parking area, if the vehicle wants to leave the parking area, it must give a ticket at the beginning, for example the vehicle is a motorcycle with a rate of Rp2000 per hour, then, if the vehicle is 2 hours in the parking area, and comes out, he must pay Rp4000. Then when the vehicle user pays with Rp10,000, the parking attendant will give change of Rp6000, finished.
   
-
-Algoritma untuk program sistem tarif parkir nya yaitu
-
--Mulai
--Pilih jenis kendaraan
--Jika memilih jenis kendaraan motor
+Here are the results of the parking system program
 
 ![Image-parkir1](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/80e790be-ac2b-40a0-819f-2bd4243af8d1)
 
