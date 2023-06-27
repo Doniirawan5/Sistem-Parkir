@@ -9,10 +9,15 @@ Here are the results of the parking system program
 
 # 1.) Choosing a vehicle type
 
-![9](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/e59599a4-a45e-40f5-8af4-073ec538a032)
+![10](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/82c4aafe-1735-4a6f-92b0-5fb16c6972db)
 
 
 # 2.) Input license plate number, time in, and time out
+
+![9](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/e59599a4-a45e-40f5-8af4-073ec538a032)
+
+
+
 
 
 
