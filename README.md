@@ -16,9 +16,11 @@ Here are the results of the parking system program
 
 ![9](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/e59599a4-a45e-40f5-8af4-073ec538a032)
 
-# 3.)Then automatically exit the results of parking duration and total payment
+# 3.) Then automatically exit the results of parking duration and total payment
 
 ![5](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/7a30a916-1dbf-49e6-82be-efdf6c583d96)
+
+# 4.) Then pay the total parking fee and change
 
 ![6](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/46f44f34-66b9-4af5-8e56-4afce836a493)
 
