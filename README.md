@@ -10,6 +10,7 @@ Ini merupakan contoh penerapan sederhana bahasa c++ yaitu berupa system parkir
 
 ![4](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/407a7222-24c5-4b7e-a824-8d47da5fdde5)
 
+![5](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/7a30a916-1dbf-49e6-82be-efdf6c583d96)
 
 
 
