@@ -24,7 +24,7 @@ Here are the results of the parking system program
 
 ![6](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/46f44f34-66b9-4af5-8e56-4afce836a493)
 
-# 5.) If you want to do another transaction type y
+# 5.) If you want to perform input transaction y, and when you do not want to continue input transaction n
 
 ![7](https://github.com/Doniirawan5/Sistem-Parkir/assets/137129851/a01b1f50-eb37-4e96-ab2d-20ed9b4807ec)
 
